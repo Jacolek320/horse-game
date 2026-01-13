@@ -1,8 +1,3 @@
-# Końtra
-
-Celem projektu jest stworzenie gry wyścigowej `Końtra`. W grze
-znajdzie się zarówno część single-player, jak i multiplayer.
-
 ## Zarys fabularny i założenia gry
 W celu ucieczki od rzeczywistości postanowiłeś wyjechać
 ma wieś. Od dawna marzyłeś o karierze wyścigów konnych i teraz jest Twoja okazja!
